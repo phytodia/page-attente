@@ -1,3 +1,9 @@
+@font-face {
+  font-family: 'EB Garamond';
+  src: url('EBGaramond-Regular.ttf'); /* IE9 Compat Modes */
+  url('EBGaramond-Regular.ttf') format('Regular'), /* Modern Browsers */
+}
 h1 {
   color: red;
+  font-family: "EB Garamond";
 }
