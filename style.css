@@ -22,8 +22,15 @@
 --blue: #BEC9D7;
 --light-blue: #D6E3E8;
 }
+body {
+  background-color: var(--beige);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
 h1 {
   //color: red;
-  color: var(--beige);
+  color: white;
   font-family: "Yeseva One";
 }
