@@ -6,7 +6,24 @@
   url('fonts/EBGaramond-Regular.ttf') format('Regular'), /* Modern Browsers */
   url('fonts/YesevaOne-Regular.ttf') format('Regular'), /* Modern Browsers */
 }
+:root {
+--orange: #C89473;
+--brown: #A98772;
+--yellow: #E2C7AD;
+--beige: #D4C7BE;
+--light-beige: #E2C7AD;
+--grey: #4B555C;
+--dark-green: #5A6658;
+--green: #5A6658;
+--light-green: #A1BAAA;
+--dark-purple: #605462;
+--purple: #AFA3B1;
+--light-purple: #DCD9DE;
+--blue: #BEC9D7;
+--light-blue: #D6E3E8;
+}
 h1 {
-  color: red;
+  //color: red;
+  color: var(--beige);
   font-family: "Yeseva One";
 }
