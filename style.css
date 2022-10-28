@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'EB Garamond';
   font-family: 'Yeseva One';
-  src: url('EBGaramond-Regular.ttf'); /* IE9 Compat Modes */
-  src: url('YesevaOne-Regular.ttf');
-  url('EBGaramond-Regular.ttf') format('Regular'), /* Modern Browsers */
-  url('YesevaOne-Regular.ttf') format('Regular'), /* Modern Browsers */
+  src: url('fonts/EBGaramond-Regular.ttf'); /* IE9 Compat Modes */
+  src: url('fonts/YesevaOne-Regular.ttf');
+  url('fonts/EBGaramond-Regular.ttf') format('Regular'), /* Modern Browsers */
+  url('fonts/YesevaOne-Regular.ttf') format('Regular'), /* Modern Browsers */
 }
 h1 {
   color: red;
